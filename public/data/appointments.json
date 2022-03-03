@@ -2,25 +2,25 @@
   {
     "petName": "Spot",
     "petOwner": "Constance Smith",
-    "aptDate": "2022-02-24 08:30",
+    "aptDate": "2022-02-24",
     "aptNotes": "This German Shepherd is having some back pain"
   },
   {
     "petName": "Goldie",
     "petOwner": "Barot Bellingham",
-    "aptDate": "2022-02-22 15:50",
+    "aptDate": "2022-02-22",
     "aptNotes": "This Goldfish has some weird spots in the belly"
   },
   {
     "petName": "Mitten",
     "petOwner": "Hillary Goldwyn",
-    "aptDate": "2021-03-24 9:15",
+    "aptDate": "2021-03-24",
     "aptNotes": "Cat has excessive hairballs"
   },
   {
     "petName": "Buffy",
     "petOwner": "Hassum Harrod",
-    "aptDate": "2021-12-01 15:30",
+    "aptDate": "2021-12-01",
     "aptNotes": "This Chihuahua has not eaten for three days and is lethargic"
   }
 ]
